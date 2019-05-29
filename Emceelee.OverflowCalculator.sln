@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emceelee.OverflowCalculator", "Emceelee.OverflowCalculator\Emceelee.OverflowCalculator.csproj", "{5FF5566F-14AF-4A58-AAFF-0E59DDF5AFBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emceelee.OverflowCalculator.Test", "Emceelee.OverflowCalculator.Test\Emceelee.OverflowCalculator.Test.csproj", "{677631E7-91D3-4CE6-AB44-7146CBF52773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FF5566F-14AF-4A58-AAFF-0E59DDF5AFBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FF5566F-14AF-4A58-AAFF-0E59DDF5AFBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FF5566F-14AF-4A58-AAFF-0E59DDF5AFBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FF5566F-14AF-4A58-AAFF-0E59DDF5AFBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{677631E7-91D3-4CE6-AB44-7146CBF52773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{677631E7-91D3-4CE6-AB44-7146CBF52773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{677631E7-91D3-4CE6-AB44-7146CBF52773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{677631E7-91D3-4CE6-AB44-7146CBF52773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2648398D-9869-4CFE-83E0-ABBEDEC9A6D5}
+	EndGlobalSection
+EndGlobal
